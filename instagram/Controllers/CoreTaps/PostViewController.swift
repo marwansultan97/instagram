@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  PostViewController.swift
 //  instagram
 //
 //  Created by Marwan Osama on 9/26/20.
@@ -8,14 +8,13 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-    var i = 0
+class PostViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
 
 
 }
-
